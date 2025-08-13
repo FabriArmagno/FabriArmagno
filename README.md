@@ -15,7 +15,9 @@
 
 ### Escuchando 🎧
 
-[![Rain – Trueno](https://i.scdn.co/image/ab67616d0000b273...)](https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db)
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 
 
