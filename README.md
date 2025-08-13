@@ -65,14 +65,3 @@
 <br/>
 
 ---
-
-### ⭐️ (https://github.com/FabriArmagno) ### 
-
----
-
-[instagram]: https://www.instagram.com/fabri_armagno/
-[linkedin]: www.linkedin.com/in/fabricio-armagno-7010442a7
-
-
-
-----
