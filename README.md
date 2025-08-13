@@ -25,8 +25,10 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](www.linkedin.com/in/fabricio-armagno-7010442a7)
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/fabricio-armagno-7010442a7)
+&nbsp;&nbsp;
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/fabri_armagno/)
+
 
 <br />
 
