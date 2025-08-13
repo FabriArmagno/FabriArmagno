@@ -25,9 +25,10 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Fabricio Armagno | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/fabricio-armagno-7010442a7)
+[<img align="left" alt="LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/fabricio-armagno-7010442a7)
 &nbsp;&nbsp;
-[<img align="left" alt="fabri_armagno | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/fabri_armagno/)
+[<img align="left" alt="Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>](https://www.instagram.com/fabri_armagno/)
+
 
 
 <br />
