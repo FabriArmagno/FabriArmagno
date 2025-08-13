@@ -16,7 +16,7 @@
 ### Escuchando 🎧
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=1DB954)](https://open.spotify.com/user/11153360645)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=stephencurry%2312&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 
