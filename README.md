@@ -15,7 +15,8 @@
 
 ### Escuchando 🎧
 
-[![Rain - Trueno](https://i.scdn.co/image/ab67616d0000b273XXXXXX)](https://open.spotify.com/track/ID_DE_LA_CANCION)
+[![Rain – Trueno](https://i.scdn.co/image/ab67616d0000b273...)](https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db)
+
 
 
 ---
