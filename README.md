@@ -23,7 +23,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Contactate conmigo 📝
 
 [<img align="left" alt="LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/fabricio-armagno-7010442a7)
 &nbsp;&nbsp;
